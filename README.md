@@ -1,3 +1,3 @@
 # interactive-frontend
 
-- Exploring interactive animation javaScript
+- Exploring interactive animation JavaScript
